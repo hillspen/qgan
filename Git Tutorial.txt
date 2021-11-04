@@ -4,6 +4,8 @@ I know some of you may not have used git before (or you could use a reminder abo
 
 The idea with GitHub (and more generally git) is to allow for different versions of a code base to be worked on simultaneously without affecting the existing code (there are other purposes but this is the defining principle). 
 
+One note is that everything that is done here is done through the command line. All of these operations can also be done using Github's website. There are lots of great tutorials online if you have any problems or want to know more about using Github. 
+
 Step 1: 
 git clone https://github.com/hillspen/qgan.git
 
